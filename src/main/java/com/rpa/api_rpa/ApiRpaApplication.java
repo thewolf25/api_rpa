@@ -17,9 +17,6 @@ public class ApiRpaApplication {
 		SpringApplication.run(ApiRpaApplication.class, args);
 	}
 
-
-
-
 	// @Bean
 	// public FilterRegistrationBean jwtFilter() {
 	// 	final FilterRegistrationBean registrationBean = new FilterRegistrationBean();
